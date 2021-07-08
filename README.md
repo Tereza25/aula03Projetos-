@@ -14,15 +14,15 @@ Reunir todo o conteúdo ministrado na aula 1 e 2 que foram apresentados anterior
 
 -----------------------------------------------------
 
-#### Acolhimento - 30 minutos
+#### 1 - Acolhimento - 30 minutos
 
 Boas vindas e dinâmica com o game “Kahoot!”, com perguntas e alternativas de resposta sobre equipes, planejamento e gerenciamento de projetos. O objetivo é relembrar os últimos conteúdos, tirar dúvidas e se preparar para as atividades. 
 
-#### Problematização - 30 minutos
+#### 2 - Problematização - 30 minutos
 
 Será apresentado para a turma a proposta de 3 projetos, informando quais necessidades e os resultados esperados. Os projetos serão voltados para situações de rotina de equipes de TI. Após a apresentação dos projetos serão separados as equipes.
 
-#### Atividade produtiva - 60 minutos
+#### 3 - Atividade produtiva - 60 minutos
 
 Será separado equipes de (+/-) 5 pessoas por sorteio no zoom, as equipes deverão seguir os seguintes passos:
 - Escolher uma das propostas de projeto. 
@@ -33,15 +33,15 @@ Será separado equipes de (+/-) 5 pessoas por sorteio no zoom, as equipes dever�
 
 As equipes irão produzir nas salas separadas, farei visitas nas equipes para tirar dúvidas e auxiliar na produção.
 
-#### Socialização - 60 minutos
+#### 4 - Socialização - 60 minutos
 
 As equipes irão retornar das salas individuais e apresentar o resultado da atividade, o objetivo é de compartilhar a experiência de construção, interação e vivência de uma equipe de projetos.
 
 
-#### Materiais e recursos
+#### 5 - Materiais e recursos
 
 - Materiais instrucionais: Slide. site (Trello).
 - Recursos: Zoom, Notebook/PC.
 
-#### Avaliação
+#### 6 - Avaliação
 A avaliação da aula será realizada pela equipe do Minas Programam.
